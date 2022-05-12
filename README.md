@@ -1,4 +1,4 @@
-# Movie app for searching all the movies with description.
+# Movie app for searching any movie.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
